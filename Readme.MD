@@ -11,4 +11,5 @@ Includes:
     autocomplete.js, 
     datepicker.js, 
     menu.js
+    
 Copyright 2015 jQuery Foundation and other contributors; Licensed MIT */
