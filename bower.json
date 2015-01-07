@@ -1,0 +1,28 @@
+{
+  "name": "jquery-ui-polyfill-for-bootstrap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/quercusv/jQueryUI-bs-polyfill",
+  "authors": [
+    "Keith Brown <keith@austintreeexperts.com>"
+  ],
+  "description": "Custom build of jquery ui v1.11.2.  Includes specific modules that bootstrap is missing for my needs.  Includes these modules:core.js, widget.js, mouse.js, position.js, draggable.js, sortable.js, autocomplete.js, datepicker.js, menu.js",
+  "main": ["jquery-ui.js","jquery-ui.css"],
+  "keywords": [
+    "jQuery-ui",
+    "jQuery",
+    "ui",
+    "bootstrap",
+    "polyfil"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.1"  
+  }
+}
